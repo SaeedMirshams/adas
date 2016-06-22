@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <animal>
+    <image type="img">bowheadwhale.png</image>
+    <sound type="snd">bowheadwhale.mp3</sound>
+  </animal>
+
+  <animal>
+    <image type="img">cat.png</image>
+    <sound type="snd">cat.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">cow.png</image>
+    <sound type="snd">cow.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">dog.png</image>
+    <sound type="snd">dog.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">elephant.png</image>
+    <sound type="snd">elephant.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">horse.png</image>
+    <sound type="snd">horse.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">humpbackwhale.png</image>
+    <sound type="snd">humpbackwhale.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">lion.png</image>
+    <sound type="snd">lion.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">moose.png</image>
+    <sound type="snd">moose.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">owl.png</image>
+    <sound type="snd">owl.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">pig.png</image>
+    <sound type="snd">pig.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">raccoon.png</image>
+    <sound type="snd">raccoon.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">rooster.png</image>
+    <sound type="snd">rooster.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">sheep.png</image>
+    <sound type="snd">.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">turkey.png</image>
+    <sound type="snd">turkey.mp3</sound>
+  </animal>
+  <animal>
+    <image type="img">zebra.png</image>
+    <sound type="snd">zebra.mp3</sound>
+  </animal>
+</data>
