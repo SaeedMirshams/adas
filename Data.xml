@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<data>
+<data Test="ok">
   <animal>
     <image type="img">bowheadwhale.png</image>
     <sound type="snd">bowheadwhale.mp3</sound>
