@@ -1,68 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-    <animal 
-        image="bowheadwhale.png"
-        sound="bowheadwhale.mp3"
-    />
-
-    <animal
-        image="cat.png"
-        sound="cat.mp3"
-    />
-    <animal
-        image="cow.png"
-        sound="cow.mp3"
-    />
-    <animal
-        image="dog.png"
-        sound="dog.mp3"
-    />
-    <animal
-        image="elephant.png"
-        sound="elephant.mp3"
-    />
-    <animal
-        image="horse.png"
-        sound="horse.mp3"
-    />
-    <animal
-        image="humpbackwhale.png"
-        sound="humpbackwhale.mp3"
-    />
-    <animal
-        image="lion.png"
-        sound="lion.mp3"
-    />
-    <animal
-        image="moose.png"
-        sound="moose.mp3"
-    />
-    <animal
-        image="owl.png"
-        sound="owl.mp3"
-    />
-    <animal
-        image="pig.png"
-        sound="pig.mp3"
-    />
-    <animal
-        image="raccoon.png"
-        sound="raccoon.mp3"
-    />
-    <animal
-        image="rooster.png"
-        sound="rooster.mp3"
-    />
-    <animal
-        image="sheep.png"
-        sound="sheep.mp3"
-    />
-    <animal
-        image="turkey.png"
-        sound="turkey.mp3"
-    />
-    <animal
-        image="zebra.png"
-        sound="zebra.mp3"
-    />
+    <animal image="bowheadwhale.png" sound="bowheadwhale.mp3" />
+    <animal image="cat.png" sound="cat.mp3" />
+    <animal image="cow.png" sound="cow.mp3" />
+    <animal image="dog.png" sound="dog.mp3" />
+    <animal image="elephant.png" sound="elephant.mp3" />
+    <animal image="horse.png" sound="horse.mp3" /> 
+    <animal image="humpbackwhale.png" sound="humpbackwhale.mp3" /> 
+    <animal image="lion.png" sound="lion.mp3" /> 
+    <animal image="moose.png" sound="moose.mp3" /> 
+    <animal image="owl.png" sound="owl.mp3" /> 
+    <animal image="pig.png" sound="pig.mp3" /> 
+    <animal image="raccoon.png" sound="raccoon.mp3" /> 
+    <animal image="rooster.png" sound="rooster.mp3" /> 
+    <animal image="sheep.png" sound="sheep.mp3" /> 
+    <animal image="turkey.png" sound="turkey.mp3" /> 
+    <animal image="zebra.png" sound="zebra.mp3" />
 </data>
