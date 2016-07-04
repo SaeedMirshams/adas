@@ -4,6 +4,7 @@
     <animal name="cat" farsiname="" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
     <animal name="cow" farsiname="" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
     <animal name="dog" farsiname="" image="adas-master/image/dog.png" sound="adas-master/sound/dog.mp3" />
+    <animal name="Eagle" farsiname="عقاب" image="adas-master/image/eagle.png" sound="adas-master/sound/eagle.mp3" />
     <animal name="elephant" farsiname="" image="adas-master/image/elephant.png" sound="adas-master/sound/elephant.mp3" />
     <animal name="horse" farsiname="" image="adas-master/image/horse.png" sound="adas-master/sound/horse.mp3" /> 
     <animal name="humpbackwhale" farsiname="" image="adas-master/image/humpbackwhale.png" sound="adas-master/sound/humpbackwhale.mp3" /> 
