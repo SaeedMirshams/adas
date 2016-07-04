@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-    <animal image="bowheadwhale.png" sound="bowheadwhale.mp3" />
-    <animal image="cat.png" sound="cat.mp3" />
-    <animal image="cow.png" sound="cow.mp3" />
-    <animal image="dog.png" sound="dog.mp3" />
-    <animal image="elephant.png" sound="elephant.mp3" />
-    <animal image="horse.png" sound="horse.mp3" /> 
-    <animal image="humpbackwhale.png" sound="humpbackwhale.mp3" /> 
-    <animal image="lion.png" sound="lion.mp3" /> 
-    <animal image="moose.png" sound="moose.mp3" /> 
-    <animal image="owl.png" sound="owl.mp3" /> 
-    <animal image="pig.png" sound="pig.mp3" /> 
-    <animal image="raccoon.png" sound="raccoon.mp3" /> 
-    <animal image="rooster.png" sound="rooster.mp3" /> 
-    <animal image="sheep.png" sound="sheep.mp3" /> 
-    <animal image="turkey.png" sound="turkey.mp3" /> 
-    <animal image="zebra.png" sound="zebra.mp3" />
+    <animal image="adas-master/image/adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
+    <animal image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
+    <animal image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
+    <animal image="adas-master/image/dog.png" sound="adas-master/sound/dog.mp3" />
+    <animal image="adas-master/image/elephant.png" sound="adas-master/sound/elephant.mp3" />
+    <animal image="adas-master/image/horse.png" sound="adas-master/sound/horse.mp3" /> 
+    <animal image="adas-master/image/humpbackwhale.png" sound="adas-master/sound/humpbackwhale.mp3" /> 
+    <animal image="adas-master/image/lion.png" sound="adas-master/sound/lion.mp3" /> 
+    <animal image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
+    <animal image="adas-master/image/owl.png" sound="adas-master/sound/owl.mp3" /> 
+    <animal image="adas-master/image/pig.png" sound="adas-master/sound/pig.mp3" /> 
+    <animal image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
+    <animal image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
+    <animal image="adas-master/image/sheep.png" sound="adas-master/sound/sheep.mp3" /> 
+    <animal image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
+    <animal image="adas-master/image/zebra.png" sound="adas-master/sound/zebra.mp3" />
 </data>
