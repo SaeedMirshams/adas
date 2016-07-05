@@ -20,5 +20,6 @@
     <animal name="Zebra" farsiname="گورخر" image="adas-master/image/zebra.png" sound="adas-master/sound/zebra.mp3" />
     <animal name="Giraffe" farsiname="زرافه" image="adas-master/image/giraffe.png" sound="adas-master/sound/silent.mp3" />
     <animal name="Cricket" farsiname="جیرجیرک" image="adas-master/image/cricket.png" sound="adas-master/sound/cricket.mp3" />
+    <animal name="Cheetah" farsiname="یوز پلنگ" image="adas-master/image/cheetah.png" sound="adas-master/sound/silent.mp3" />
     
 </data>
