@@ -15,6 +15,7 @@
     <animal name="Raccoon" farsiname="راکن" image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
     <animal name="Rooster" farsiname="خروس" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
     <animal name="Sheep" farsiname="گوسفند" image="adas-master/image/sheep.png" sound="adas-master/sound/sheep.mp3" /> 
+    <animal name="Goat" farsiname="بز" image="adas-master/image/goat.png" sound="adas-master/sound/goat.mp3" />
     <animal name="Turkey" farsiname="بوقلمون" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
     <animal name="Zebra" farsiname="گورخر" image="adas-master/image/zebra.png" sound="adas-master/sound/zebra.mp3" />
 </data>
