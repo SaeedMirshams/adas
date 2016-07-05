@@ -18,4 +18,5 @@
     <animal name="Goat" farsiname="بز" image="adas-master/image/goat.png" sound="adas-master/sound/goat.mp3" />
     <animal name="Turkey" farsiname="بوقلمون" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
     <animal name="Zebra" farsiname="گورخر" image="adas-master/image/zebra.png" sound="adas-master/sound/zebra.mp3" />
+    <animal name="Giraffe" farsiname="زرافه" image="adas-master/image/giraffe.png" sound="adas-master/sound/giraffe.mp3" />
 </data>
