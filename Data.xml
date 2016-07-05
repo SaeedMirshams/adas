@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-    <animal name="Bowheadwhale" farsiname="" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
-    <animal name="Cat" farsiname="" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
-    <animal name="Cow" farsiname="" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
-    <animal name="Dog" farsiname="" image="adas-master/image/dog.png" sound="adas-master/sound/dog.mp3" />
+    <animal name="Bowheadwhale" farsiname="نهنگ" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
+    <animal name="Cat" farsiname="گربه" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
+    <animal name="Cow" farsiname="گاو" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
+    <animal name="Dog" farsiname="سگ" image="adas-master/image/dog.png" sound="adas-master/sound/dog.mp3" />
     <animal name="Eagle" farsiname="عقاب" image="adas-master/image/eagle.png" sound="adas-master/sound/eagle.mp3" />
-    <animal name="Elephant" farsiname="" image="adas-master/image/elephant.png" sound="adas-master/sound/elephant.mp3" />
-    <animal name="Horse" farsiname="" image="adas-master/image/horse.png" sound="adas-master/sound/horse.mp3" /> 
-    <animal name="Humpbackwhale" farsiname="" image="adas-master/image/humpbackwhale.png" sound="adas-master/sound/humpbackwhale.mp3" /> 
-    <animal name="Lion" farsiname="" image="adas-master/image/lion.png" sound="adas-master/sound/lion.mp3" /> 
-    <animal name="Moose" farsiname="" image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
-    <animal name="Owl" farsiname="" image="adas-master/image/owl.png" sound="adas-master/sound/owl.mp3" /> 
-    <animal name="Pig" farsiname="" image="adas-master/image/pig.png" sound="adas-master/sound/pig.mp3" /> 
-    <animal name="Raccoon" farsiname="" image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
-    <animal name="Rooster" farsiname="" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
-    <animal name="Sheep" farsiname="" image="adas-master/image/sheep.png" sound="adas-master/sound/sheep.mp3" /> 
-    <animal name="Turkey" farsiname="" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
-    <animal name="Zebra" farsiname="" image="adas-master/image/zebra.png" sound="adas-master/sound/zebra.mp3" />
+    <animal name="Elephant" farsiname="فیل" image="adas-master/image/elephant.png" sound="adas-master/sound/elephant.mp3" />
+    <animal name="Horse" farsiname="اسب" image="adas-master/image/horse.png" sound="adas-master/sound/horse.mp3" /> 
+    <animal name="Humpbackwhale" farsiname="وال" image="adas-master/image/humpbackwhale.png" sound="adas-master/sound/humpbackwhale.mp3" /> 
+    <animal name="Lion" farsiname="شیر" image="adas-master/image/lion.png" sound="adas-master/sound/lion.mp3" /> 
+    <animal name="Moose" farsiname="گوزن" image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
+    <animal name="Owl" farsiname="جغد" image="adas-master/image/owl.png" sound="adas-master/sound/owl.mp3" /> 
+    <animal name="Pig" farsiname="خوک" image="adas-master/image/pig.png" sound="adas-master/sound/pig.mp3" /> 
+    <animal name="Raccoon" farsiname="راکن" image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
+    <animal name="Rooster" farsiname="خروس" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
+    <animal name="Sheep" farsiname="گوسفند" image="adas-master/image/sheep.png" sound="adas-master/sound/sheep.mp3" /> 
+    <animal name="Turkey" farsiname="بوقلمون" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
+    <animal name="Zebra" farsiname="گورخر" image="adas-master/image/zebra.png" sound="adas-master/sound/zebra.mp3" />
 </data>
