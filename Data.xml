@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-    <animal name="Bowheadwhale" farsiname="نهنگ کوزپشت" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
+    <animal name="Bowheadwhale" farsiname="نهنگ کوژپشت" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
     <animal name="Cat" farsiname="گربه" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
     <animal name="Cow" farsiname="گاو" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
     <animal name="Dog" farsiname="سگ" image="adas-master/image/dog.png" sound="adas-master/sound/dog.mp3" />
