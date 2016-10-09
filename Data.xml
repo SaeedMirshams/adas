@@ -24,4 +24,5 @@
     <animal name="Leopard" farsiname="پلنگ" image="adas-master/image/leopard.png" sound="adas-master/sound/leopard.mp3" />
     <animal name="Jaguar" farsiname="جگوار" image="adas-master/image/jaguar.png" sound="adas-master/sound/jaguar.mp3" />
     <animal name="Tiger" farsiname="ببر" image="adas-master/image/tiger.png" sound="adas-master/sound/tiger.mp3" />
+    <animal name="Octopus" farsiname="هشت پا" image="adas-master/image/octopus.png" sound="adas-master/sound/silent.mp3" />
 </data>
