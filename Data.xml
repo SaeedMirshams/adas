@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-    <animal name="Bowheadwhale" farsiname="نهنگ کوژپشت" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
     <animal name="Cat" farsiname="گربه" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
     <animal name="Cow" farsiname="گاو" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
     <animal name="Dog" farsiname="سگ" image="adas-master/image/dog.png" sound="adas-master/sound/dog.mp3" />
@@ -8,6 +7,7 @@
     <animal name="Elephant" farsiname="فیل" image="adas-master/image/elephant.png" sound="adas-master/sound/elephant.mp3" />
     <animal name="Horse" farsiname="اسب" image="adas-master/image/horse.png" sound="adas-master/sound/horse.mp3" /> 
     <animal name="Humpbackwhale" farsiname="وال" image="adas-master/image/humpbackwhale.png" sound="adas-master/sound/humpbackwhale.mp3" /> 
+    <animal name="Bowheadwhale" farsiname="نهنگ کوژپشت" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
     <animal name="Lion" farsiname="شیر" image="adas-master/image/lion.png" sound="adas-master/sound/lion.mp3" /> 
     <animal name="Moose" farsiname="گوزن" image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
     <animal name="Owl" farsiname="جغد" image="adas-master/image/owl.png" sound="adas-master/sound/owl.mp3" /> 
