@@ -6,8 +6,8 @@
     <animal name="Eagle" farsiname="عقاب" image="adas-master/image/eagle.png" sound="adas-master/sound/eagle.mp3" />
     <animal name="Elephant" farsiname="فیل" image="adas-master/image/elephant.png" sound="adas-master/sound/elephant.mp3" />
     <animal name="Horse" farsiname="اسب" image="adas-master/image/horse.png" sound="adas-master/sound/horse.mp3" /> 
-    <animal name="Humpbackwhale" farsiname="وال" image="adas-master/image/humpbackwhale.png" sound="adas-master/sound/humpbackwhale.mp3" /> 
-    <animal name="Bowheadwhale" farsiname="نهنگ کوژپشت" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
+    <animal name="Humpbackwhale" farsiname="نهنگ کوژپشت" image="adas-master/image/humpbackwhale.png" sound="adas-master/sound/humpbackwhale.mp3" /> 
+    <animal name="Bowheadwhale" farsiname="نهنگ سرگنده" image="adas-master/image/bowheadwhale.png" sound="adas-master/sound/bowheadwhale.mp3" />
     <animal name="Lion" farsiname="شیر" image="adas-master/image/lion.png" sound="adas-master/sound/lion.mp3" /> 
     <animal name="Moose" farsiname="گوزن" image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
     <animal name="Owl" farsiname="جغد" image="adas-master/image/owl.png" sound="adas-master/sound/owl.mp3" /> 
