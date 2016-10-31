@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-    <animal name="Cat" farsiname="گربه" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
     <animal name="Cow" farsiname="گاو" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
     <animal name="Sheep" farsiname="گوسفند" image="adas-master/image/sheep.png" sound="adas-master/sound/sheep.mp3" /> 
     <animal name="Goat" farsiname="بز" image="adas-master/image/goat.png" sound="adas-master/sound/goat.mp3" />
@@ -16,8 +15,9 @@
     <animal name="Moose" farsiname="گوزن" image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
     <animal name="Owl" farsiname="جغد" image="adas-master/image/owl.png" sound="adas-master/sound/owl.mp3" /> 
     <animal name="Pig" farsiname="خوک" image="adas-master/image/pig.png" sound="adas-master/sound/pig.mp3" /> 
-    <animal name="Raccoon" farsiname="راکن" image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
+    <animal name="Cat" farsiname="گربه" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
     <animal name="Squirrel" farsiname="سنجاب" image="adas-master/image/squirrel.png" sound="adas-master/sound/silent.mp3" /> 
+    <animal name="Raccoon" farsiname="راکن" image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
     <animal name="Rooster" farsiname="خروس" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
     <animal name="Turkey" farsiname="بوقلمون" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
     <animal name="Zebra" farsiname="گورخر" image="adas-master/image/zebra.png" sound="adas-master/sound/zebra.mp3" />
@@ -28,4 +28,5 @@
     <animal name="Jaguar" farsiname="جگوار" image="adas-master/image/jaguar.png" sound="adas-master/sound/jaguar.mp3" />
     <animal name="Tiger" farsiname="ببر" image="adas-master/image/tiger.png" sound="adas-master/sound/tiger.mp3" />
     <animal name="Octopus" farsiname="هشت پا" image="adas-master/image/octopus.png" sound="adas-master/sound/silent.mp3" />
+    <animal name="Bee" farsiname="زنبور" image="adas-master/image/bee.png" sound="adas-master/sound/bee.mp3" />
 </data>
