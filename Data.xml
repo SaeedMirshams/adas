@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
     <animal name="Deer" farsiname="آهو" image="adas-master/image/deer.png" sound="adas-master/sound/deer.mp3" />
-    <animal name="Bull" farsiname="گاو" image="adas-master/image/bull.png" sound="adas-master/sound/cow.mp3" />
+    <animal name="Bull" farsiname="گاو" image="adas-master/image/bull.png" sound="adas-master/sound/bull.mp3" />
     <animal name="Cow" farsiname="گاو" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
     <animal name="Sheep" farsiname="گوسفند" image="adas-master/image/sheep.png" sound="adas-master/sound/sheep.mp3" /> 
     <animal name="Goat" farsiname="بز" image="adas-master/image/goat.png" sound="adas-master/sound/goat.mp3" />
