@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
+    <animal name="Bull" farsiname="گاو" image="adas-master/image/bull.png" sound="adas-master/sound/cow.mp3" />
     <animal name="Cow" farsiname="گاو" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
     <animal name="Sheep" farsiname="گوسفند" image="adas-master/image/sheep.png" sound="adas-master/sound/sheep.mp3" /> 
     <animal name="Goat" farsiname="بز" image="adas-master/image/goat.png" sound="adas-master/sound/goat.mp3" />
@@ -29,4 +30,5 @@
     <animal name="Tiger" farsiname="ببر" image="adas-master/image/tiger.png" sound="adas-master/sound/tiger.mp3" />
     <animal name="Octopus" farsiname="هشت پا" image="adas-master/image/octopus.png" sound="adas-master/sound/silent.mp3" />
     <animal name="Bee" farsiname="زنبور" image="adas-master/image/bee.png" sound="adas-master/sound/bee.mp3" />
+    <animal name="Ostrich" farsiname="شترمرغ" image="adas-master/image/ostrich.png" sound="adas-master/sound/ostrich.mp3" />
 </data>
