@@ -18,7 +18,7 @@
     <animal name="Owl" farsiname="جغد" image="adas-master/image/owl.png" sound="adas-master/sound/owl.mp3" /> 
     <animal name="Pig" farsiname="خوک" image="adas-master/image/pig.png" sound="adas-master/sound/pig.mp3" /> 
     <animal name="Cat" farsiname="گربه" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
-    <animal name="Squirrel" farsiname="سنجاب" image="adas-master/image/squirrel.png" sound="adas-master/sound/silent.mp3" /> 
+    <animal name="Squirrel" farsiname="سنجاب" image="adas-master/image/squirrel.png" sound="adas-master/sound/squirrel.mp3" /> 
     <animal name="Raccoon" farsiname="راکن" image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
     <animal name="Rooster" farsiname="خروس" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
     <animal name="Turkey" farsiname="بوقلمون" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
