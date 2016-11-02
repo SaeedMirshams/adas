@@ -24,7 +24,7 @@
     <animal name="Turkey" farsiname="بوقلمون" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
     <animal name="Giraffe" farsiname="زرافه" image="adas-master/image/giraffe.png" sound="adas-master/sound/silent.mp3" />
     <animal name="Cricket" farsiname="جیرجیرک" image="adas-master/image/cricket.png" sound="adas-master/sound/cricket.mp3" />
-    <animal name="Cicada" farsiname="زنجره" image="adas-master/image/cicada.png" sound="adas-master/sound/cicada.mp3" />
+    <animal name="Cicada" farsiname="زنجره" image="adas-master/image/cicadaa.png" sound="adas-master/sound/cicada.mp3" />
     <animal name="Lion" farsiname="شیر" image="adas-master/image/lion.png" sound="adas-master/sound/lion.mp3" /> 
     <animal name="Cheetah" farsiname="یوز پلنگ" image="adas-master/image/cheetah.png" sound="adas-master/sound/cheetah.mp3" />
     <animal name="Leopard" farsiname="پلنگ" image="adas-master/image/leopard.png" sound="adas-master/sound/leopard.mp3" />
