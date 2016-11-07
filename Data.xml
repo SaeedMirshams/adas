@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
+    <animal name="Rooster" farsiname="خروس" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
+    <animal name="Hen" farsiname="مرغ" image="adas-master/image/hen.png" sound="adas-master/sound/hen.wav" /> 
+    <animal name="chick" farsiname="جوجه" image="adas-master/image/chick.png" sound="adas-master/sound/chick.mp3" /> 
     <animal name="Deer" farsiname="آهو" image="adas-master/image/deer.png" sound="adas-master/sound/deer.mp3" />
     <animal name="Moose" farsiname="گوزن" image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
     <animal name="Camel" farsiname="شتر" image="adas-master/image/Camel.png" sound="adas-master/sound/camel.mp3" />
@@ -20,7 +23,6 @@
     <animal name="Cat" farsiname="گربه" image="adas-master/image/cat.png" sound="adas-master/sound/cat.mp3" />
     <animal name="Squirrel" farsiname="سنجاب" image="adas-master/image/squirrel.png" sound="adas-master/sound/squirrel.mp3" /> 
     <animal name="Raccoon" farsiname="راکن" image="adas-master/image/raccoon.png" sound="adas-master/sound/raccoon.mp3" /> 
-    <animal name="Rooster" farsiname="خروس" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
     <animal name="Turkey" farsiname="بوقلمون" image="adas-master/image/turkey.png" sound="adas-master/sound/turkey.mp3" /> 
     <animal name="Giraffe" farsiname="زرافه" image="adas-master/image/giraffe.png" sound="adas-master/sound/silent.mp3" />
     <animal name="Cricket" farsiname="جیرجیرک" image="adas-master/image/cricket.png" sound="adas-master/sound/cricket.mp3" />
