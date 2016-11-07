@@ -5,6 +5,7 @@
     <animal name="chick" farsiname="جوجه" image="adas-master/image/chick.png" sound="adas-master/sound/chick.mp3" /> 
     <animal name="Deer" farsiname="آهو" image="adas-master/image/deer.png" sound="adas-master/sound/deer.mp3" />
     <animal name="Moose" farsiname="گوزن" image="adas-master/image/moose.png" sound="adas-master/sound/moose.mp3" /> 
+    <animal name="Wolf" farsiname="گرگ" image="adas-master/image/wolf.png" sound="adas-master/sound/wolf.wav" /> 
     <animal name="Camel" farsiname="شتر" image="adas-master/image/Camel.png" sound="adas-master/sound/camel.mp3" />
     <animal name="Bull" farsiname="گاو" image="adas-master/image/bull.png" sound="adas-master/sound/bull.mp3" />
     <animal name="Cow" farsiname="گاو" image="adas-master/image/cow.png" sound="adas-master/sound/cow.mp3" />
