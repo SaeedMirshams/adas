@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
+    <animal name="Fish" farsiname="ماهی" image="adas-master/image/fish.png" sound="adas-master/sound/silent.mp3" /> 
     <animal name="Rooster" farsiname="خروس" image="adas-master/image/rooster.png" sound="adas-master/sound/rooster.mp3" /> 
     <animal name="Hen" farsiname="مرغ" image="adas-master/image/hen.png" sound="adas-master/sound/hen.wav" /> 
     <animal name="chick" farsiname="جوجه" image="adas-master/image/chick.png" sound="adas-master/sound/chick.mp3" /> 
